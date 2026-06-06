@@ -1,24 +1,34 @@
 # Hi, I'm Enoch 👋
 
-I'm a Computer Science graduate with interests in:
+## About Me
 
-- Python Development
-- SQL & Data Analytics
+Computer Science graduate with interests in:
+
+- Data Science
 - Machine Learning
 - Artificial Intelligence
-- Data Science
+- Python Development
+- SQL Analytics
 
-## Skills
+## Technical Skills
 
+### Programming
 - Python
 - SQL
+- JavaScript
+
+### Data Science
 - Pandas
 - NumPy
-- Scikit-learn
-- Git & GitHub
-
-## Current Focus
-
-- Data Science
+- Data Analysis
 - Machine Learning
-- AI Evaluation & Training
+
+### Tools
+- Git
+- GitHub
+- Jupyter Notebook
+- VS Code
+
+## Current Goal
+
+Building real-world Data Science and AI projects while expanding my expertise in Machine Learning and Generative AI.
